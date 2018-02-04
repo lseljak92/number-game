@@ -1,5 +1,5 @@
 /*
- * Description: Ptogram that generates random number and asks the user to guess it.
+ * Description: Program that generates random number and asks the user to guess it.
  * Name: Luciana Seljak
  * File name: NumberGuessingGame.cpp
  *
